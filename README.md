@@ -1,4 +1,4 @@
-# Desafios Codewars-java☕
+# Desafios Codewars-Java☕
 
 ![image](https://github.com/user-attachments/assets/d2d2d73a-dc9a-4a4e-8121-e87e94bbf85d)
 
