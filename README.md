@@ -1,5 +1,9 @@
 # Desafios Codewars-java☕
 
+![image](https://github.com/user-attachments/assets/d2d2d73a-dc9a-4a4e-8121-e87e94bbf85d)
+
+
+
 
 Este repositório contém soluções para desafios de programação resolvidos em Java, retiradosda plataforma Codewars.
 
